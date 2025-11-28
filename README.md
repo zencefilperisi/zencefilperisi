@@ -43,7 +43,7 @@ Advanced traffic inspection proxy with:
 - Live alert system  
 - Log visualization modules  
 **Tech:** Python, Mitmproxy, Security  
-🔗 Repo: https://github.com/zencefilperisi/network-security-proxy 
+🔗 Repo: https://github.com/zencefilperisi/network_security_proxy 
 
 ---
 
@@ -51,7 +51,7 @@ Advanced traffic inspection proxy with:
 Standalone log analyzer detecting brute-force attempts, anomalies & HTTP threats.  
 Includes graphical dashboards with Matplotlib.  
 **Tech:** Python, Regex, Matplotlib  
-🔗 Repo: https://github.com/zencefilperisi/log-analysis-project
+🔗 Repo: https://github.com/zencefilperisi/log_analysis_project
 
 ---
 
