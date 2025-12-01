@@ -73,9 +73,15 @@ Includes graphical dashboards with Matplotlib.
 ---
 
 ## 📈 GitHub Stats
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=zencefilperisi&show_icons=true&theme=tokyonight" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zencefilperisi&layout=compact&theme=tokyonight" />
-</p>
+<img height="150" 
+     src="https://github-readme-stats.vercel.app/api?username=zencefilperisi
+     &show_icons=true
+     &include_all_commits=true
+     &rank_icon=github
+     &show=reviews,prs_merged,prs_merged_percentage
+     &theme=tokyonight" />
+     
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zencefilperisi&layout=compact&theme=tokyonight" />
+
 
 ---
